@@ -1,0 +1,44 @@
+git init
+
+git add .
+
+git commit -m "first file"
+
+
+git add .
+
+git commit -m "second file"
+
+
+git add .
+
+git commit -m "third file"
+
+
+git add .
+
+git commit -m "forth file"
+
+
+git log
+
+copy third commit id "a59ebd97ab0a19ca02b80b8ce118b6210e796ca4"
+
+
+update name to "thrid file revert"
+
+git branch secound
+
+git checkout "secound"
+
+made file "secondFilePranch.txt"
+
+git add .
+
+git commit -m "second File Pranch"
+
+
+move to master pranch
+
+git merge secound
+
