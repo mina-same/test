@@ -1,0 +1,17 @@
+---1----
+
+git init 
+
+git remote add origin https://github.com/mina-same/test.git
+
+git push -u origin master
+
+----2----
+
+make change 
+
+git add .
+
+git commit -m "change"
+
+git push 
